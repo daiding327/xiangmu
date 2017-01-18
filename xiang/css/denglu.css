@@ -1,0 +1,179 @@
+body {
+	background: #f5f5f5;
+}
+/******************logoÍ¼*********************/
+.nb-logo{
+	width:100%;
+	height:auto;
+	text-align:center;
+}
+.container {
+	width: 850px;
+	height: 430px;
+	background: white;
+	margin: 0 auto;
+	margin-top: 60px;
+	margin-bottom:40px;
+	padding-bottom:40px;
+	font-size:14px;
+	padding-top:35px;
+	position:relative;
+}
+.container form{
+	width:370px;
+	height:442px;
+	position:absolute;
+	top:30px;
+	left:240px;
+}
+.container .top{
+	width:370px;
+	height:24px;
+	font-size:18px;
+	margin-bottom:20px;
+	margin-top:55px;
+	text-align:center;
+}
+.container .top .one{
+	display:inline-block;
+	width:162px;
+	height:24px;
+	cursor:pointer;
+}
+.container .top span{
+	display:inline-block;
+	width:162px;
+	height:24px;
+	cursor:pointer;
+}
+.container .top .three{
+	color:#e8380d;
+}
+.container .reg-ph,.reg-mail{
+	display:none;
+}
+.container .visib{
+	display:block;
+}
+.container .user,.container .psd¡,.container .check{
+	width: 360px;
+	margin-bottom: 20px;
+	position: relative;
+	height: 52px;
+}
+.container .user span,.container .psd span{
+	position: absolute;
+	left: 370px;
+	line-height: 50px;
+	color: #E7340C;
+	font-size: 12px;
+	width: 1000px;
+	top: 0;
+}
+.container .user input,.container .psd input{
+	width: 350px;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+	border: 1px solid #e0e4e7;
+	font-size: 12px;
+	color: #ccc;
+}
+.container .check input{
+	display:block;
+	float: left;
+	width: 220px;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 10px;
+	border: 1px solid #e0e4e7;
+	font-size: 12px;
+	color: #ccc;
+}
+.container .check i{
+	display:block;
+	float: right;
+	width: 115px;
+	height: 52px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	color: red;
+	border: 1px solid #0ff;
+}
+input:focus{
+	outline:none;
+}
+.container #sub{
+	margin-top:20px;
+}
+.container #sub2{
+	margin-top:10px;
+}
+.container p{
+	width: 360px;
+	height: 50px;
+	line-height: 50px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	background: #e8380d;
+	color: #fff;
+	cursor: pointer;
+	text-align: center;
+}
+.container #tishi{
+	width:360px;
+	height:30px;
+	text-align:right;
+	font-size:14px;
+}
+.container #tishi a{
+	color:#e8380d;
+}
+.container #tishi .hei{
+	color:black;
+}
+.container #tishi a:hover{
+	text-decoration:underline;
+}
+
+.container .qiehuan{
+	width:360px;
+	height:26px;
+	font-size:14px;
+	margin-top:10px;
+}
+
+.container .qiehuan img{
+	vertical-align:middle;
+	margin-right:10px;
+}
+.container .qiehuan img:hover{
+	cursor:pointer;
+}
+/********************µ×²¿********************/
+.nb-bottom{
+	width:850px;
+	height:50px;
+	line-height:50px;
+	font-size:12px;
+	color:#999999;
+	margin:0 auto;
+	margin-top:50px;
+	text-align:center;
+}
+.nb-bottom a{
+	color:#939393;
+}
+.nb-bottom  .lianjie:hover{
+	text-decoration:underline;
+	color:black;
+}
+
+
+
+
+
+
+
+
